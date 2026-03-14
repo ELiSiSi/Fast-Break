@@ -1,5 +1,5 @@
 :root {
-  --main-color: #000;
+  --main-color: #008FD1;
   --secondary-color: #ffa200;
 }
 
@@ -14,10 +14,10 @@ html {
 }
 
 body {
-  --main-color: #000000;
+  --main-color:#dd0016;
   background-color: var(--main-color);
   width: 100%;
-  
+
 }
 
 
@@ -93,7 +93,7 @@ body {
     font-size: 16px;
   }
 
- 
+
 }
 
 
